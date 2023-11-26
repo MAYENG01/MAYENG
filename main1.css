@@ -1,0 +1,56 @@
+/* style.css */
+*{
+    margin: 0;
+    padding: 0;
+    font-family:cursive;
+    box-sizing: border-box;
+}
+body {
+    font-family: cursive;
+    background-color: #865d35;   
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:rgb(117, 107, 107);
+    color:blueviolet;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.profile {
+    text-align: center;
+}
+
+
+.Aboutme{
+    margin-top: 20px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #7218b3;
+}
+
+footer {
+    background-color: bisque;
+    color: #774227;
+    padding: 20px;
+    text-align: center;
+}
